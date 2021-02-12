@@ -2,6 +2,8 @@ module github.com/cosmos/gaia/v4
 
 go 1.15
 
+replace github.com/cosmos/cosmos-sdk => /Users/shahank/git_interchain/cosmos-sdk
+
 require (
 	github.com/btcsuite/btcd v0.21.0-beta
 	github.com/btcsuite/btcutil v1.0.2
